@@ -1,5 +1,5 @@
 # My_Piggy_Bank
-Simple application in progress to improve my skills in Android Development
+### Simple application in progress to improve my skills in Android Development
 
 My Piggy Bank is an application useful to manage savings in a virtual piggy bank
 
@@ -8,7 +8,7 @@ My Piggy Bank is an application useful to manage savings in a virtual piggy bank
 2. Tech Stack
 3. Deployment
 4. Features
-6. Roadmap
+6. Roadmap - Coming soon
 7. Feedback
 
 
@@ -44,6 +44,16 @@ To deploy this project run
 
 - Portrait mode
 - Android 5.0 (API21) and higher
+
+
+## Roadmap - Coming soon
+
+- Navigation graph
+- Transformation and mediator LiveDatas
+- Jetpack Compose
+- Coroutines
+- Firebase authentication
+- Database Firestore
 
 
 ## Feedback
