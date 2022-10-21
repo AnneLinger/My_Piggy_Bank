@@ -44,7 +44,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/im_piggy"
         android:textColor="@color/color_white"
-        android:textSize="20sp"/>
+        android:textSize="24sp"/>
 
     <TextView
         android:id="@+id/tv_current_amount"
@@ -54,9 +54,9 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toStartOf="@id/tv_current_amount_euro"
         app:layout_constraintBottom_toTopOf="@id/tv_update_amount_title"
-        tools:text="@string/app_name"
+        android:text="@string/_0"
         android:textColor="@color/color_secondary"
-        android:textSize="20sp"/>
+        android:textSize="24sp"/>
 
     <TextView
         android:id="@+id/tv_current_amount_euro"
@@ -68,7 +68,7 @@
         app:layout_constraintStart_toEndOf="@id/tv_current_amount"
         android:text="@string/euro"
         android:textColor="@color/color_secondary"
-        android:textSize="20sp"/>
+        android:textSize="24sp"/>
 
     <TextView
         android:id="@+id/tv_update_amount_title"

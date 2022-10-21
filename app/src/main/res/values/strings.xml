@@ -3,7 +3,8 @@
     <string name="current_amount">Current amount</string>
     <string name="euro">€</string>
     <string name="amount">Amount to add or remove</string>
-    <string name="udapte_amount">Udapte amount</string>
+    <string name="udapte_amount">Udapte amount :</string>
     <string name="add">Add</string>
     <string name="remove">Remove</string>
+    <string name="_0">0</string>
 </resources>
